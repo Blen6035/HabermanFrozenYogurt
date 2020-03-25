@@ -144,6 +144,7 @@ img {
 	margin: 0;
 	padding: 0;
 }
+
 /*----------------------------------------body-home-styles---------------------------------------*/
 #body.home {
 	margin: 0;
@@ -361,6 +362,13 @@ img {
 	padding: 28px 0 23px;
 	text-align: center;
 	text-transform: uppercase;
+}
+.google {
+	display: block;
+	float: right;
+	padding: 28px 0 23px;
+	text-align: center;
+	width: 400px;
 }
 #body div.body {
 	background-color: #ebebed;
